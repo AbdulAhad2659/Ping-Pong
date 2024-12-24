@@ -50,12 +50,12 @@ This is a feature-rich Ping Pong game developed in Python using the Pygame libra
         -   `speed_up.png`
         -   `big_paddle.png`
         -   `background.jpg` (optional)
-    -   Place these files in the same directory as the `ping_pong_enhanced.py` script.
+    -   Place these files in the same directory as the `improved_ping_pong.py` script.
     -   You can find free assets online or create your own.
 3. **Run the Game:**
 
     ```bash
-    python ping_pong.py
+    python improved_ping_pong.py
     ```
 
 ## Controls
